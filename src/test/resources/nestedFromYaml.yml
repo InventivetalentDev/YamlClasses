@@ -1,0 +1,15 @@
+rootA: HI!
+rootB: 1337
+rootC: 73.31
+childA:
+  a: Hi
+  b: Bye
+  c: 123
+  d: 123.456
+  f: 5432.1
+childB:
+  a: Bye
+  b: Hi!
+  c: 123
+  d: 123.456
+  f: 5432.1
